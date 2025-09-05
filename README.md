@@ -1,4 +1,4 @@
-# ZombieGame
+# Zombie game
 Small zombie game currently in the making! \o/
 
-Can be played at <a href="http://www.jesperlauridsen.org/projects/zombieGame/">jesperlauridsen.org/projects/zombieGame</a>.
+Can be played at <a href="https://github.com/jesperlauridsen/zombie-game">https://github.com/jesperlauridsen/zombie-game.</a>.
